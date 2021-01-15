@@ -1,2 +1,2 @@
 # Open-N-W
-Hackthon project for Postman API
+Hackathon project for Postman API
